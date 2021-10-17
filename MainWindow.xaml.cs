@@ -40,7 +40,7 @@ namespace MatchGame
             if(matchesFound == 8)
             {
                 timer.Stop();
-                timeTextBlock.Text = timeTextBlock.Text + " - Plat Again?";
+                timeTextBlock.Text = timeTextBlock.Text + " - Play Again?";
             }          
         }
 
